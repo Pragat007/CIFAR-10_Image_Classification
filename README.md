@@ -46,9 +46,9 @@ The trained ResNet-164 model is deployed using Gradio, allowing users to upload 
 To run this project locally, you'll need to install Python and the required libraries.
 
 ### Clone this repository:
-```bash
-git clone https://github.com/your-username/CIFAR10_Image_Classification_ResNet164.git
-```
+  ```bash
+  git clone https://github.com/Pragat007/cifar-10-object-detection.git
+  ```
 
 2. **Install the required packages:**
 
@@ -61,11 +61,11 @@ git clone https://github.com/your-username/CIFAR10_Image_Classification_ResNet16
     ```bash
     jupyter notebook
     ```
-4. **Run the cells in any of the notebook files** (`CIFAR_classification_ResNet164.ipynb`) **to train and evaluate the models.**
+4. **Run the cells in any of the notebook files** (`cifar_object_identification.ipynb`) **to train and evaluate the models.**
 
 ### Access the Deployed App
 
-The model is deployed using Gradio. You can interact with the deployed model on [Hugging Face](https://huggingface.co/spaces/Pragat007/Flower_classification), which provides a user-friendly interface for testing CIFAR-10 classification
+The model is deployed using Gradio. You can interact with the deployed model on [Hugging Face](https://huggingface.co/spaces/Pragat007/image_classification), which provides a user-friendly interface for testing CIFAR-10 classification
 
 ## Results
 
